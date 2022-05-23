@@ -11,13 +11,17 @@
 - <b>MATLAB</b>
   - [Fingerprint Recognition Algorithm Using Cellular Automata](https://github.com/jeffmachyo/Fingerprint-Recognition-Algorithm)
 
+<h2>📺 Popular YouTube Videos</h2>
+- [How to Interface a STM32 and Raspberry Pi via I2C](https://www.youtube.com/watch?v=8SisMjqqgmc)
 
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="jeffmachyo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="jeffmachyo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jeffmachyo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jeffmachyo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[youtube]: https://www.youtube.com/c/joshmadakor
 [twitter]: https://twitter.com/jeffmachyo
 [instagram]: https://www.instagram.com/jeffmachyo/
 [linkedin]: https://linkedin.com/in/jeffrey-machyo/
