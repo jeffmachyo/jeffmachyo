@@ -3,6 +3,10 @@
 <h2>👨‍💻 Embedded Software Development Projects:</h2>
 
 - <b>C/C++</b>
+  - [Intruder Detection System](https://github.com/jeffmachyo/Intruder-Detection-System)
+- <b>Python</b>
+  - [Greenhouse Monitor](https://github.com/jeffmachyo/Greenhouse-Monitor)
+- <b>C/C++</b>
   - [Face Operated Door Lock](https://github.com/jeffmachyo/Face-operated-door-lock)
 - <b>C/C++ with Python</b>
   - [Temperature Monitoring IoT Solution](https://github.com/jeffmachyo/Temperature-monitoring-IoT-Solution)
